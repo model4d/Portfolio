@@ -1,6 +1,6 @@
 <h1 align="center"> Анализ бизнес-показателей приложения Procrastinate Pro+ </h1>
 
-[ipynb](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.ipynb)
+[ipynb](https://github.com/model4d/Portfolio/blob/main/Procrastinate_pro/procrastinate_public.ipynb)
 
 <h3> Описание: </h3>
 
