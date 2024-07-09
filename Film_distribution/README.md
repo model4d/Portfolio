@@ -1,6 +1,6 @@
 <h1 align="center"> Исследование данных о российском кинопрокате </h1>
 
-[ipynb](https://github.com/model4d/Portfolio/blob/main/Procrastinate_pro/procrastinate_public.ipynb)
+[ipynb](https://github.com/model4d/Portfolio/blob/main/Film_distribution/film_distribution.ipynb)
 
 <h3> Описание и цель работы: </h3>
 
