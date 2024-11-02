@@ -1,6 +1,6 @@
 <h1 align="center"> Статистический анализ данных </h1>
 
-[ipynb](https://github.com/model4d/Portfolio/blob/main/03%20Kicksharing/Kicksharing.ipynb)
+[Проект полностью (Jupyter Notebook)](https://github.com/model4d/Portfolio/blob/main/03%20Kicksharing/Kicksharing.ipynb)
 
 <h3> Описание: </h3>
 
