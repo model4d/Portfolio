@@ -1,6 +1,6 @@
 <h1 align="center"> Анализ данных вакансий сайта hh.ru на примере аналитиков данных и системных аналитиков </h1>
 
-[Проект полностью (Jupyter Notebook)](https://github.com/model4d/Portfolio/blob/main/03%20Kicksharing/Kicksharing.ipynb)
+[Проект полностью (Jupyter Notebook)](https://github.com/model4d/Portfolio/blob/main/04%20Job_analysis/job_analysis_da_sa.ipynb)
 
 <h3> Описание: </h3>
 
